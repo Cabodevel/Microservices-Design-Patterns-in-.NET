@@ -1,0 +1,1 @@
+C:\Users\Carlos\Documents\GitHub\Microservices-Design-Patterns-in-.NET\Ch03\HealthCare.Microservices\.sonarqube\out\0

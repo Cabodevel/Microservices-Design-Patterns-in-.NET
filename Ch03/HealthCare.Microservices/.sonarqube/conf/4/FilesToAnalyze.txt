@@ -1,0 +1,17 @@
+﻿C:\Users\Carlos\Documents\GitHub\Microservices-Design-Patterns-in-.NET\Ch03\HealthCare.Microservices\HealthCare.Doctors.Api\Controllers\DoctorsController.cs
+C:\Users\Carlos\Documents\GitHub\Microservices-Design-Patterns-in-.NET\Ch03\HealthCare.Microservices\HealthCare.Doctors.Api\Controllers\SpecializationsController.cs
+C:\Users\Carlos\Documents\GitHub\Microservices-Design-Patterns-in-.NET\Ch03\HealthCare.Microservices\HealthCare.Doctors.Api\Migrations\20221107141715_FirstMigration.cs
+C:\Users\Carlos\Documents\GitHub\Microservices-Design-Patterns-in-.NET\Ch03\HealthCare.Microservices\HealthCare.Doctors.Api\Migrations\20221107141715_FirstMigration.Designer.cs
+C:\Users\Carlos\Documents\GitHub\Microservices-Design-Patterns-in-.NET\Ch03\HealthCare.Microservices\HealthCare.Doctors.Api\Migrations\DoctorsDbContextModelSnapshot.cs
+C:\Users\Carlos\Documents\GitHub\Microservices-Design-Patterns-in-.NET\Ch03\HealthCare.Microservices\HealthCare.Doctors.Api\Models\Doctor.cs
+C:\Users\Carlos\Documents\GitHub\Microservices-Design-Patterns-in-.NET\Ch03\HealthCare.Microservices\HealthCare.Doctors.Api\Models\DoctorsDbContext.cs
+C:\Users\Carlos\Documents\GitHub\Microservices-Design-Patterns-in-.NET\Ch03\HealthCare.Microservices\HealthCare.Doctors.Api\Models\Specialization.cs
+C:\Users\Carlos\Documents\GitHub\Microservices-Design-Patterns-in-.NET\Ch03\HealthCare.Microservices\HealthCare.Doctors.Api\Program.cs
+C:\Users\Carlos\Documents\GitHub\Microservices-Design-Patterns-in-.NET\Ch03\HealthCare.Microservices\HealthCare.Doctors.Api\obj\Debug\net7.0\HealthCare.Doctors.Api.GlobalUsings.g.cs
+C:\Users\Carlos\Documents\GitHub\Microservices-Design-Patterns-in-.NET\Ch03\HealthCare.Microservices\HealthCare.Doctors.Api\obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+C:\Users\Carlos\Documents\GitHub\Microservices-Design-Patterns-in-.NET\Ch03\HealthCare.Microservices\HealthCare.Doctors.Api\obj\Debug\net7.0\HealthCare.Doctors.Api.AssemblyInfo.cs
+C:\Users\Carlos\Documents\GitHub\Microservices-Design-Patterns-in-.NET\Ch03\HealthCare.Microservices\HealthCare.Doctors.Api\obj\Debug\net7.0\HealthCare.Doctors.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Carlos\Documents\GitHub\Microservices-Design-Patterns-in-.NET\Ch03\HealthCare.Microservices\HealthCare.Doctors.Api\appsettings.Development.json
+C:\Users\Carlos\Documents\GitHub\Microservices-Design-Patterns-in-.NET\Ch03\HealthCare.Microservices\HealthCare.Doctors.Api\appsettings.json
+C:\Users\Carlos\Documents\GitHub\Microservices-Design-Patterns-in-.NET\Ch03\HealthCare.Microservices\HealthCare.Doctors.Api\Doctors.db
+C:\Users\Carlos\Documents\GitHub\Microservices-Design-Patterns-in-.NET\Ch03\HealthCare.Microservices\HealthCare.Doctors.Api\Properties\launchSettings.json

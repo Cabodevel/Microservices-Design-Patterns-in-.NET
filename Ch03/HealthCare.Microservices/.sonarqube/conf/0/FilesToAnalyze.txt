@@ -1,0 +1,2 @@
+﻿C:\Users\Carlos\Documents\GitHub\Microservices-Design-Patterns-in-.NET\Ch03\HealthCare.Microservices\HealthCare.SharedAssets\BaseEntity.cs
+C:\Users\Carlos\Documents\GitHub\Microservices-Design-Patterns-in-.NET\Ch03\HealthCare.Microservices\HealthCare.SharedAssets\IAggregateRoot.cs
